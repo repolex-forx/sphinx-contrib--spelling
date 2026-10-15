@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/spelling/commit/1eb81816aa74a04b28c51db5ee9085efd767283c",
       "git:hexsha": "1eb81816aa74a04b28c51db5ee9085efd767283c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/spelling/commit/1166e310e239081d62e09f11f017141314414cc1",
