@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/spelling/commit/1eb81816aa74a04b28c51db5ee9085efd767283c",
       "git:hexsha": "1eb81816aa74a04b28c51db5ee9085efd767283c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T09:41:16.834863+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/spelling/commit/1166e310e239081d62e09f11f017141314414cc1",
