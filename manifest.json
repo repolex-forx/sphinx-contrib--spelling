@@ -122,6 +122,86 @@
       ],
       "ast": [
         "aggregate/ast/c039e7aad17ce88018bd2b2451a4b24c2627017b/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/c039e7aad17ce88018bd2b2451a4b24c2627017b.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pyenchant",
+          "ecosystem": "PYPI",
+          "version": "3.1.1",
+          "githubOrg": "pyenchant",
+          "githubRepo": "pyenchant",
+          "githubCommit": "021a4808faec00e17f15655b96d2c92a1f0ed9b6",
+          "githubTag": "v3.1.1",
+          "githubUrl": "https://github.com/pyenchant/pyenchant",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx",
+          "ecosystem": "PYPI",
+          "version": "3.0.0",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubCommit": "8178597970186365de88a44bb18c83f978b5ba05",
+          "githubTag": "v3.0.0",
+          "githubUrl": "https://github.com/sphinx-doc/sphinx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "requests",
+          "ecosystem": "PYPI",
+          "version": "2.32.3",
+          "githubOrg": "psf",
+          "githubRepo": "requests",
+          "githubCommit": "0e322af87745eff34caffe4df68456ebc20d9068",
+          "githubTag": "v2.32.3",
+          "githubUrl": "https://github.com/psf/requests",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "9.2.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "ae1d0ff57b8bd4252da9ade7353523ac0ac73281",
+          "githubTag": "9.2.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-cov",
+          "ecosystem": "PYPI",
+          "version": "7.1.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-cov",
+          "githubCommit": "66c8a526b1246b5eb8fb1bc218878131bc628622",
+          "githubTag": "v7.1.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest-cov",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "coverage",
+          "ecosystem": "PYPI",
+          "version": "4.4",
+          "githubOrg": "coveragepy",
+          "githubRepo": "coveragepy",
+          "githubUrl": "https://github.com/coveragepy/coveragepy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "importlib-metadata",
+          "ecosystem": "PYPI",
+          "version": "10.2.0",
+          "githubOrg": "python",
+          "githubRepo": "importlib_metadata",
+          "githubCommit": "7e35ac1e6f23e92c66279837b17ce3847434c846",
+          "githubTag": "v10.2.0",
+          "githubUrl": "https://github.com/python/importlib_metadata",
+          "source": "lsp",
+          "raw_name": "importlib_metadata",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/importlib_metadata/__init__.py"
+        }
       ]
     }
   ],
